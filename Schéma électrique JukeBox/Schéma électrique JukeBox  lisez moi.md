@@ -1,7 +1,10 @@
-Schéma électrique JukeBox 
+# Schéma électrique Jukebox
+
+Dans ce répertoire nous avons le schéma général du fichier électrique du jukebox.   
+Ici c’es tout les fichier pour l’ouvrir sur Kicad. 
 
 
-Lisez moi 
 
+### Liens 
 
-
+[https://www.kicad.org](https://www.kicad.org)
