@@ -4,7 +4,7 @@ Juke-Box avec une puce RFID
 > Définition de Jukebox : Électrophone automatique, généralement payant, que l’on retrouve dans certains lieux publics et qui permet de faire jouer un disque sélectionné. (Définition d’Antidote)
 
 
-> Définition de RFID : Sigle de Radio fréquencé identification.
+> Définition de RFID : Sigle de Radio frequency identification.
 
 
 
